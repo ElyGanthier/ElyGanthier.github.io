@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://elylganthier.github.io/sitemap.xml
+Sitemap: https://elyganthier.github.io/sitemap.xml
